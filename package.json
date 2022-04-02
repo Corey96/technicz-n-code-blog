@@ -1,0 +1,21 @@
+{
+  "name": "technicz-n-code-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Corey96/technicz-n-code-blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Corey96/technicz-n-code-blog/issues"
+  },
+  "homepage": "https://github.com/Corey96/technicz-n-code-blog#readme"
+}
